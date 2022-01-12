@@ -5,6 +5,7 @@
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@antv/x6": "^1.29.5",
+    "@antv/x6-react-components": "^1.1.15",
     "@antv/x6-react-shape": "^1.6.0",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
